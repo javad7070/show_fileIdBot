@@ -1,0 +1,10 @@
+c:\users\asus\documents\visual studio 2017\Projects\show_FileIdBot\show_FileIdBot\bin\Debug\show_FileIdBot.exe.config
+c:\users\asus\documents\visual studio 2017\Projects\show_FileIdBot\show_FileIdBot\bin\Debug\show_FileIdBot.exe
+c:\users\asus\documents\visual studio 2017\Projects\show_FileIdBot\show_FileIdBot\bin\Debug\show_FileIdBot.pdb
+c:\users\asus\documents\visual studio 2017\Projects\show_FileIdBot\show_FileIdBot\bin\Debug\Telegram.dll
+c:\users\asus\documents\visual studio 2017\Projects\show_FileIdBot\show_FileIdBot\obj\Debug\show_FileIdBot.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2017\Projects\show_FileIdBot\show_FileIdBot\obj\Debug\show_FileIdBot.Form1.resources
+c:\users\asus\documents\visual studio 2017\Projects\show_FileIdBot\show_FileIdBot\obj\Debug\show_FileIdBot.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2017\Projects\show_FileIdBot\show_FileIdBot\obj\Debug\show_FileIdBot.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2017\Projects\show_FileIdBot\show_FileIdBot\obj\Debug\show_FileIdBot.exe
+c:\users\asus\documents\visual studio 2017\Projects\show_FileIdBot\show_FileIdBot\obj\Debug\show_FileIdBot.pdb
