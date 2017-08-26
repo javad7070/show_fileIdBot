@@ -288,10 +288,7 @@ namespace show_FileIdBot
                         Telegram.bot.editMessageInlinekeyboard.keyboard_R2_2_Url = "https://t.me/cpp_cs";
                         Telegram.bot.editMessageInlinekeyboard.send(Chat_ID(),msgid(), "<b>سلام </b>" + "<b>" + Telegram.bot.from_first_name + "</b>" + " " + "<b>🤠به ربات نمایش فایل ایدی سنیور خوش اومدی,برای نمایش فهرست دکمه ورود به ربات رو لمس کن💝</b>");
                     }
-                    else
-                    {
-                        sendmessage(Chat_ID(), Telegram.bot.update);
-                    }
+                  
                     }
             }
         }
